@@ -1,3 +1,10 @@
+Modified:
+1) the test scripts are in repo BCD/test_scripts/thesis_compare_*.m 
+and thesis_reorder_4methods.m
+2) implementation of Nesterov's FPG(in thesis "APGD") in ./FPG and BFGS in ./MyFcn
+
+
+
 # L-BFGS-B-C
 L-BFGS-B, converted from Fortran to C with Matlab wrapper
 
